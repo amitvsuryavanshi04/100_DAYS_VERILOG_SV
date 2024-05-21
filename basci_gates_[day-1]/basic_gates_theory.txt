@@ -5,3 +5,8 @@ yes we can't ignore as they are meant to be the fondation of this while building
 they are as follows
 NOT= used for getting opposite logic
 AND = used for getting logic high when both inputs are high
+NAND = it's just opposite of AND gate
+OR = acts like logical adder gives output high when one of the input is high
+NOR = acts opposite of OR gate
+XOR = it's exclusive OR gate when inputs are same output is zero/low [0]
+XNOR = it's opposite of XOR gate
