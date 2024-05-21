@@ -1,0 +1,7 @@
+All the electronics works on logic and it may be a high logic [1] 
+or it can be a low logic [0] in almost every scenario
+but logic gates are kind of those gates which are a key role in builing big electronic cricuits in digital electronics and 
+yes we can't ignore as they are meant to be the fondation of this while building most of circuits 
+they are as follows
+NOT= used for getting opposite logic
+AND = used for getting logic high when both inputs are high
