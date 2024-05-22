@@ -3,6 +3,6 @@ module half_subtractor(a,b,dif,bo_out)
   output dif,bo_out;
 
   assign dif=a^b;
-  assign bout= ~a&b;
+  assign bo_out= ~a&b;
 
 endmodule
