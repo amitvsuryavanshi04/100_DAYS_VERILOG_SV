@@ -4,6 +4,5 @@ just to have discipline and consistency in VLSI domain starting this challenge r
 If anyone finds this useful and likes my consistency please consider me for opportunity in VLSI domain
 
 Day-01 basic gates 
-Day-02 adders & subtractors [half adder and half subtractor ]
+Day-02 half adder and half subtractor 
 Day-03 full adder and full subtractor 
-
