@@ -1,4 +1,5 @@
 //multiplexer is used to take many input and has select lines using which we get one of the input as output 
+//this is a multiplexer with 3 select lines which gives us 2^(3)= 8 inputs 
 module multiplexer(sel,a,muxout);
 input [2:0]sel;
 input [7:0]a;
