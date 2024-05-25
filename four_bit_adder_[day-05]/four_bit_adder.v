@@ -1,4 +1,7 @@
 //the below verilog code is a four bit adder using a full adder which I used in my day-03 
+//https://github.com/amitvsuryavanshi04/100_DAYS_VERILOG_RTL/blob/main/full-adder_%26_full-subtractor_%5Bday-3%5D/full-adder.v 
+// the above is the link for full adder where you can find the separate module for full adder which is included in this code in 
+// starting from the 14 line of this code 
 module four_bit_adder(input [3:0]a,[3:0]b,input cin, output [3:0]sum,cout); //this is the module four_bit_adder
 wire c0,c1,c2,c3;
 full_adder fa1(.a(a[0]),.b(b[0]),.cin(cin),.s(sum[0]),.cout(c0));
