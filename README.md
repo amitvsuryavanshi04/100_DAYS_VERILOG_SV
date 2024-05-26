@@ -7,5 +7,5 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-02 half adder and half subtractor
 #### Day-03 full adder and full subtractor
 #### Day-04 multiplexer 8 inputs 
-#### Day-05 four bit adder using onr bit adder 
+#### Day-05 four bit adder using one bit adder 
 #### Day-06 four bit ripple carry adder
