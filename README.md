@@ -13,3 +13,4 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-05 four bit adder using one bit adder 
 #### Day-06 four bit ripple carry adder
 #### Day-07 alu four bit
+#### Day-08 Carry look ahead adder
