@@ -1,5 +1,5 @@
 # 100_DAYS_RTL Coding
-Starting my 100 days verilog RTL coding challenge 
+Starting my 100 days RTL coding challenge 
 just to have discipline and consistency in VLSI domain starting this challenge right from basics to advanced 
 If anyone finds this useful and likes my consistency please consider me for opportunity in VLSI domain
 
@@ -14,3 +14,4 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-06 four bit ripple carry adder
 #### Day-07 alu four bit
 #### Day-08 Carry look ahead adder
+#### Day-09 encoder 8:3 
