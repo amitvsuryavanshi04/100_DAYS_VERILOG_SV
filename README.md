@@ -15,3 +15,4 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-07 alu four bit
 #### Day-08 Carry look ahead adder
 #### Day-09 encoder 8:3 
+#### Day-10 Decoder and Demux
