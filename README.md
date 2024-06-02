@@ -44,3 +44,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-11 Simple Communication System  {Applied day-1 to day-10}
      a simple communication system using Verilog, incorporating an encoder, decoder,
      multiplexer (mux), and demultiplexer (demux) to facilitate efficient data transmission and reception.
+#### Day-12 D Type Flip-Flop 
+     a D-type flip-flop, a digital storage element that captures and stores a 
+     single bit of data on the rising or falling edge of a clock signal.
