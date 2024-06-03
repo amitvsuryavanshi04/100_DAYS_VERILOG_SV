@@ -47,3 +47,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-12 D Type Flip-Flop 
      a D-type flip-flop, a digital storage element that captures and stores a 
      single bit of data on the rising or falling edge of a clock signal.
+#### Day-13 JK Flip-Flop
+    This project implements a JK flip-flop, a versatile digital storage element that can operate as a 
+    set-reset flip-flop, toggle flip-flop, or hold state, based on its input conditions and clock signal.
