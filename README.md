@@ -50,3 +50,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-13 JK Flip-Flop
     This project implements a JK flip-flop, a versatile digital storage element that can operate as a 
     set-reset flip-flop, toggle flip-flop, or hold state, based on its input conditions and clock signal.
+#### Day-14 SR Flip-Flop 
+    SR (Set-Reset) flip-flop is a basic sequential logic circuit with two inputs, S (Set) and R (Reset),
+    that controls a single output, Q. It sets Q to 1 when S=1 and R=0, resets Q to 0 when S=0 and R=1, 
+    and maintains its state when S=0 and R=0; the state when S=1 and R=1 is considered invalid.
