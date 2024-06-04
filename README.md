@@ -54,3 +54,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     SR (Set-Reset) flip-flop is a basic sequential logic circuit with two inputs, S (Set) and R (Reset),
     that controls a single output, Q. It sets Q to 1 when S=1 and R=0, resets Q to 0 when S=0 and R=1, 
     and maintains its state when S=0 and R=0; the state when S=1 and R=1 is considered invalid.
+#### Day-15 T Flip-Flop
+     Implement a T (Toggle) flip-flop, which toggles its state on every clock edge if the T input is high.
+     Applications: Counters, clock dividers
