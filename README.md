@@ -57,3 +57,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-15 T Flip-Flop
      Implement a T (Toggle) flip-flop, which toggles its state on every clock edge if the T input is high.
      Applications: Counters, clock dividers
+#### Day-16 4-bit synchronous counter 
+     A simple 4 bit up counter which is used to count the binary values from 0 to 15 in sync from signal ,
+     ensuring the simultaneous change and eliminating propagation delays, used in counting,timing 
+     Frequency division.
