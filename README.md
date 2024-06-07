@@ -61,3 +61,16 @@ If anyone finds this useful and likes my consistency please consider me for oppo
      A simple 4 bit up counter which is used to count the binary values from 0 to 15 in sync from signal ,
      ensuring the simultaneous change and eliminating propagation delays, used in counting,timing 
      Frequency division.
+#### Day-17 Types of counters 
+     Types of Counters:
+
+     (*) 4-bit Asynchronous (Ripple) Counter: A counter where flip-flops are triggered by the previous flip-flop's output, leading to a ripple effect and propagation delay.
+     (*) Johnson Counter: A shift register counter with an inverted feedback loop, providing a sequence of states double the length of the number of flip-flops.
+     (*) Ring Counter: A shift register counter where a single bit circulates through the flip-flops, providing a straightforward sequence generation method.
+     
+     Applications:
+
+     (*) Ripple Counter: Simple digital clocks, frequency counters.
+     (*) Johnson Counter: Sequence generation, digital phase-locked loops.
+     (*) Ring Counter: Sequence generation, state machines, LED light chasers.
+ 
