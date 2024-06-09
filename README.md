@@ -73,7 +73,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
      (*) Ripple Counter: Simple digital clocks, frequency counters.
      (*) Johnson Counter: Sequence generation, digital phase-locked loops.
      (*) Ring Counter: Sequence generation, state machines, LED light chasers.
- #### Day-18 BitComparator_BarrelShifer_Multiplier_MatrixMultiplier
+#### Day-18 BitComparator_BarrelShifer_Multiplier_MatrixMultiplier
      8-bit Comparator:
      An 8-bit comparator compares two 8-bit binary numbers and determines if one is greater than, less than,
      or equal to the other. This module is essential in digital systems for numerical comparisons.
@@ -89,3 +89,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
      4x4 Matrix Multiplier:
      A 4x4 matrix multiplier multiplies two 4x4 matrices to produce a resulting 4x4 matrix. Each element 
      in the result matrix is the dot product of corresponding row and column vectors from the input matrices.
+#### Day-19 Priority Encoder and Sequence Detector 1011 
+     Priority Encoder: A digital circuit that converts multiple active input signals into a binary code based on the highest-priority active input.
+     Sequence Detector (FSM): A finite state machine designed to recognize a specific sequence of bits in a bitstream, used for detecting patterns or protocols.
