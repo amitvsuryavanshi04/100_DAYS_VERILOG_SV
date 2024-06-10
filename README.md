@@ -92,3 +92,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-19 Priority Encoder and Sequence Detector 1011 
      Priority Encoder: A digital circuit that converts multiple active input signals into a binary code based on the highest-priority active input.
      Sequence Detector (FSM): A finite state machine designed to recognize a specific sequence of bits in a bitstream, used for detecting patterns or protocols.
+
+#### Day-20: Traffic Light Controller SystemTraffic Light Controller System:
+     A real-world application using counters, FSM, comparators, and multiplexers to manage the timing
+     and state transitions of traffic lights at a 4-way intersection. The system ensures smooth transitions
+     between red, yellow, and green lights to efficiently control traffic flow.
