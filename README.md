@@ -67,7 +67,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
      (*) 4-bit Asynchronous (Ripple) Counter: A counter where flip-flops are triggered by the previous flip-flop's output, leading to a ripple effect and propagation delay.
      (*) Johnson Counter: A shift register counter with an inverted feedback loop, providing a sequence of states double the length of the number of flip-flops.
      (*) Ring Counter: A shift register counter where a single bit circulates through the flip-flops, providing a straightforward sequence generation method.
-     
      Applications:
 
      (*) Ripple Counter: Simple digital clocks, frequency counters.
@@ -92,8 +91,11 @@ If anyone finds this useful and likes my consistency please consider me for oppo
      in the result matrix is the dot product of corresponding row and column vectors from the input matrices.
 
 #### Day-19 Priority Encoder and Sequence Detector 1011 
-     Priority Encoder: A digital circuit that converts multiple active input signals into a binary code based on the highest-priority active input.
-     Sequence Detector (FSM): A finite state machine designed to recognize a specific sequence of bits in a bitstream, used for detecting patterns or protocols.
+     Priority Encoder: A digital circuit that converts multiple active input signals into a binary code based 
+     on the highest-priority active input.
+
+     Sequence Detector (FSM): A finite state machine designed to recognize a specific sequence of bits in a 
+     bitstream, used for detecting patterns or protocols.
 
 #### Day-20: Traffic Light Controller SystemTraffic Light Controller System:
      A real-world application using counters, FSM, comparators, and multiplexers to manage the timing
@@ -104,3 +106,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
      Implemented a UART module for asynchronous serial communication between devices. 
      The transmitter (TX) converts parallel data into serial form, and the receiver (RX) converts received serial 
      data back into parallel form. Used in embedded systems for serial data transmission and reception.
+#### Day-22 Shift Operators
+     This module implements logical and arithmetic shift operations on a 4-bit input based on a 2-bit select signal
+     providing left and right shift capabilities.
