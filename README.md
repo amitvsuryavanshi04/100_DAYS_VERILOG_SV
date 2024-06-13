@@ -109,3 +109,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-22 Shift Operators
      This module implements logical and arithmetic shift operations on a 4-bit input based on a 2-bit select signal
      providing left and right shift capabilities.
+
+#### Day-23 PISO Paralle-In-Serial-Out Shift register 
+     A PISO shift register is a digital circuit that takes parallel data input and converts it to serial output. 
+     This is commonly used for data transmission where multiple bits need to be sent sequentially over a single data line.
