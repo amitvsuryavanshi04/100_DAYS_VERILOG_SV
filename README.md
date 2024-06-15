@@ -118,3 +118,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
      A SIPO shift register is a digital circuit that receives data serially, bit by bit, and outputs the data in
      parallel form. It is useful for converting serial data received from a single data line into parallel data for 
      further processing in digital systems.
+
+#### Day-25 SISO Serial-In-Serial-Out Shift register 
+     A SISO shift register is a digital circuit that receives data serially and shifts it out serially, bit by bit. 
+     It is used for temporary data storage and data transfer in digital systems, allowing data to be moved from one 
+     place to another one bit at a time.
