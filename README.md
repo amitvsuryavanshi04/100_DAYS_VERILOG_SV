@@ -123,3 +123,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
      A SISO shift register is a digital circuit that receives data serially and shifts it out serially, bit by bit. 
      It is used for temporary data storage and data transfer in digital systems, allowing data to be moved from one 
      place to another one bit at a time.
+#### Day-26 Mealy machine sequence detector 
+    The Verilog code provided implements a Mealy state machine designed for sequence detection. A Mealy machine is a 
+	finite state machine where the output depends on both the current state and the current input.
+	This specific Mealy machine detects a particular sequence of input bits and transitions between states based on the input x.
