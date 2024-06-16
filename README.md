@@ -125,5 +125,11 @@ If anyone finds this useful and likes my consistency please consider me for oppo
      place to another one bit at a time.
 #### Day-26 Mealy machine sequence detector 
     The Verilog code provided implements a Mealy state machine designed for sequence detection. A Mealy machine is a 
-	finite state machine where the output depends on both the current state and the current input.
-	This specific Mealy machine detects a particular sequence of input bits and transitions between states based on the input x.
+    finite state machine where the output depends on both the current state and the current input.
+    This specific Mealy machine detects a particular sequence of input bits and transitions between states based on the input x
+#### Day-27 Moore machine sequence detector 
+    The Verilog code given in the directory named [day-27]_moore_machine_code designed for sequence detection 
+    Moore state machine to detect the sequence "1011" in a serial input stream. The output is determined solely based on the current state
+    ensuring reliable sequence detection. The provided Verilog code and testbench verify the correct operation of the sequence detector.
+    Mealy machines determine their outputs based on the current state and input, while Moore machines determine their outputs solely based 
+    on the current state.
