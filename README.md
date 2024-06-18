@@ -64,9 +64,12 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-17 Types of counters 
      Types of Counters:
 
-     (*) 4-bit Asynchronous (Ripple) Counter: A counter where flip-flops are triggered by the previous flip-flop's output, leading to a ripple effect and propagation delay.
-     (*) Johnson Counter: A shift register counter with an inverted feedback loop, providing a sequence of states double the length of the number of flip-flops.
-     (*) Ring Counter: A shift register counter where a single bit circulates through the flip-flops, providing a straightforward sequence generation method.
+     (*) 4-bit Asynchronous (Ripple) Counter: A counter where flip-flops are triggered by the previous 
+     flip-flop's output, leading to a ripple effect and propagation delay.
+     (*) Johnson Counter: A shift register counter with an inverted feedback loop, providing a sequence 
+     of states double the length of the number of flip-flops.
+     (*) Ring Counter: A shift register counter where a single bit circulates through the flip-flops, 
+     providing a straightforward sequence generation method.
      Applications:
 
      (*) Ripple Counter: Simple digital clocks, frequency counters.
@@ -135,7 +138,9 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     on the current state.
 	
 #### Day-28 Newspaper vending machine using FSM 
-    1. When a coin inserted , 2 bit signal coin[1:0] sent, signal is asserted at the next negative edge of a global clock signal and stays up
-	for one cycle. 
-	2. output of the circuit is singlebit each time total amount inserted in 15 cents or more, an output signal goes high 
-	3. reset signal to reset FSM , reset given is synchronous reset
+    1) When a coin inserted , 2 bit signal coin[1:0] sent, signal is asserted at the next negative edge of a global 
+    clock signal and stays up for one cycle.
+ 
+    2) Output of the circuit is singlebit each time total amount inserted in 15 cents or more, an output signal goes high 
+
+    3) Reset signal to reset FSM , reset signal given is this case is "synchronous reset"
