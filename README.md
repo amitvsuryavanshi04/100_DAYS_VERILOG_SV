@@ -144,3 +144,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     2) Output of the circuit is singlebit each time total amount inserted in 15 cents or more, an output signal goes high 
 
     3) Reset signal to reset FSM , reset signal given is this case is "synchronous reset"
+
+#### Day-29 Digital clock 
+    This project implements a simple digital clock using Verilog. The clock counts seconds, minutes, and hours, rolling over appropriately 
+	(seconds and minutes reset after 59, hours reset after 23). It provides a fundamental understanding of counters and their synchronization,
+	as well as how to manage time-based operations in digital systems.
