@@ -149,3 +149,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     This project implements a simple digital clock using Verilog. The clock counts seconds, minutes, and hours, rolling over appropriately 
 	(seconds and minutes reset after 59, hours reset after 23). It provides a fundamental understanding of counters and their synchronization,
 	as well as how to manage time-based operations in digital systems.
+#### Day-30 Debounce circuit 
+    The Debounce Circuit project involves designing a digital circuit to eliminate the noise or bouncing effect in mechanical switches, 
+    ensuring a stable signal output. The debounce circuit is implemented in Verilog and manages the state of a switch input by using a
+    shift register to filter out spurious changes. 
