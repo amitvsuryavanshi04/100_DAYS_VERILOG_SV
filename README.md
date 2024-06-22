@@ -158,3 +158,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-31 Binary to gray converter 
     Gray Code is similar to binary code except its successive number differs by only a single bit. Hence, it has importance in communication 
 	systems as it minimizes error occurrence. They are also useful in rotary, optical encoders, data acquisition systems, etc.
+
+#### Day-32 Gray to Binary Converter 
+	Verilog code for converting 4-bit Gray code to 4-bit Binary code. Gray code is a binary numeral system where two successive values differ 
+	in only one bit. This conversion is useful in various digital systems where error minimization during transitions is critical.
