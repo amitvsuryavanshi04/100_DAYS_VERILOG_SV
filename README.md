@@ -162,3 +162,12 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-32 Gray to Binary Converter 
 	Verilog code for converting 4-bit Gray code to 4-bit Binary code. Gray code is a binary numeral system where two successive values differ 
 	in only one bit. This conversion is useful in various digital systems where error minimization during transitions is critical.
+	
+#### Day-33 Synchronous FIFO using a common counter 
+    **FIFO write operation
+    FIFO can store/write the wr_data at every posedge of the clock based on wr_en signal till
+    it is full. The write pointer gets incremented on every data write in FIFO memory.
+    **FIFO read operation
+    The data can be taken out or read from FIFO at every posedge of the clock based on the
+    rd_en signal till it is empty. The read pointer gets incremented on every data read from
+    FIFO memory.
