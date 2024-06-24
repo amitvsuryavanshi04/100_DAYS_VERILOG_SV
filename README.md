@@ -171,3 +171,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     The data can be taken out or read from FIFO at every posedge of the clock based on the
     rd_en signal till it is empty. The read pointer gets incremented on every data read from
     FIFO memory.
+	
+#### Day-34 Binary Coded Decimal addition process BCD VERILOG CODE 
+    This Verilog module performs Binary Coded Decimal (BCD) addition of two 4-bit inputs, handling 
+    carry-in and producing a correct BCD sum and carry-out.
