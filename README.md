@@ -175,3 +175,9 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-34 Binary Coded Decimal addition process BCD VERILOG CODE 
     This Verilog module performs Binary Coded Decimal (BCD) addition of two 4-bit inputs, handling 
     carry-in and producing a correct BCD sum and carry-out.
+	
+#### Day-35 Binary Coded Decimal to Excess-3 conversion
+    This part is like adding 3 to each binary coded decimal so it's also known as BCD-Excess-3 
+	conversion can be done in various ways but I have used one line code 
+	"assign e = b + 4'b0011"
+
