@@ -181,3 +181,11 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 	conversion can be done in various ways but I have used one line code 
 	"assign e = b + 4'b0011"
 
+#### Day-36 Tristate Buffer 
+    tristate buffer is a three terminal device tri means 3 when enable value is one the input 
+	is transferred to output when enable is zero the output is high impedance
+	truth table 
+    input 	enable 		output
+    X		 0 			   Z 
+    0 		 1 			   0
+    1        1			   1 
