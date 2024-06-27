@@ -188,4 +188,9 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     input 	enable 		output
     X		 0 			   Z 
     0 		 1 			   0
-    1        1			   1 
+    1        1			   1
+
+#### Day-37 L-SR latch using NOR 
+    it is also known as bistable latch the SR here refers to set and reset yes it is one of the
+	fundamental building block in digital electronics it has capacity to store one bit of data 
+	and is commonly used for memory storage circuits, sync and control applications. 	
