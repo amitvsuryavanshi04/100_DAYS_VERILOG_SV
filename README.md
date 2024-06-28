@@ -194,3 +194,13 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     it is also known as bistable latch the SR here refers to set and reset yes it is one of the
 	fundamental building block in digital electronics it has capacity to store one bit of data 
 	and is commonly used for memory storage circuits, sync and control applications. 	
+
+#### Day-38 ADC,DAC & it's combined system 
+    [*]Combining ADC and DAC allows for the complete cycle of converting an analog signal to digital
+    and then back to analog. This process is commonly used in signal processing systems, communication
+    systems, and data acquisition systems. 
+	
+    [*]The combined system consists of an ADC module and a DAC module. The ADC module samples the analog 
+    input signal and converts it to a digital signal. The DAC module then takes this digital signal and 
+    converts it back to an analog signal.
+
