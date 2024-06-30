@@ -204,3 +204,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     input signal and converts it to a digital signal. The DAC module then takes this digital signal and 
     converts it back to an analog signal.
 
+#### Day-39 added Clock divider 
+    This Verilog module divides the input clock frequency by a specified divisor, useful for generating 
+    slower clock signals. The testbench simulates the module with a 50MHz input clock.
