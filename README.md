@@ -207,3 +207,10 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-39 added Clock divider 
     This Verilog module divides the input clock frequency by a specified divisor, useful for generating 
     slower clock signals. The testbench simulates the module with a 50MHz input clock.
+
+#### Day-40 IC 7458 simulation HDL bit problem
+    Problem statement :->> 
+    The 7458 is a chip with four AND gates and two OR gates. This problem is slightly more complex than 7420.
+    Create a module with the same functionality as the 7458 chip. It has 10 inputs and 2 outputs. You may choose 
+    to use an assign statement to drive each of the output wires, or you may choose to declare (four) wires for 
+    use as intermediate signals, where each internal wire is driven by the output of one of the AND gates
