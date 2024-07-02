@@ -214,3 +214,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     Create a module with the same functionality as the 7458 chip. It has 10 inputs and 2 outputs. You may choose 
     to use an assign statement to drive each of the output wires, or you may choose to declare (four) wires for 
     use as intermediate signals, where each internal wire is driven by the output of one of the AND gates
+#### Day-41 Population counter using a vector HDL bits problem
+    A "population count" circuit counts the number of '1's in an input vector. Build a population count circuit 
+    for a 255-bit input vector.
