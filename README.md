@@ -222,3 +222,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     The doub_edge_ff implements a D flip-flop with XOR logic. The output q is derived from the XOR of intermediate 
     flip-flop outputs triggered by both the positive and negative edges of the clock. The doub_edge_ff_tb is a 
     testbench that applies a sequence of inputs to verify the behavior of the Flip flop.
+
+#### Day-43 pmos logic Circuit
+    pmos logic verilog code 
