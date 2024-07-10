@@ -229,3 +229,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-44 pmos inverter logic
    This Verilog code defines a PMOS-based inverter and includes a testbench to verify its operation, toggling the
    input signal to observe the correct inversion at the output.
+   
+#### Day-45 modulo n counter
+   Added verilog design and testbench code for modulo n counter 
