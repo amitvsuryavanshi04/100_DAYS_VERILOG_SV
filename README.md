@@ -227,8 +227,14 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     pmos logic verilog code 
 	
 #### Day-44 pmos inverter logic
-   This Verilog code defines a PMOS-based inverter and includes a testbench to verify its operation, toggling the
-   input signal to observe the correct inversion at the output.
+    This Verilog code defines a PMOS-based inverter and includes a testbench to verify its operation, toggling the
+    input signal to observe the correct inversion at the output.
    
 #### Day-45 modulo n counter
-   Added verilog design and testbench code for modulo n counter 
+    Added verilog design and testbench code for modulo n counter 
+
+#### Day-46 OR using 2:1 mux
+    The verilog code for OR gate using 2:1 mux where A is select line and B is one I0 input line 
+
+#### Day-47 AND gate using 2:1 mux 
+    The verilog code for AND gate using a mux where A is select line and B is the I1 input line , I0 is zero
