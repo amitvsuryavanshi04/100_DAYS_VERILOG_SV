@@ -238,3 +238,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 
 #### Day-47 AND gate using 2:1 mux 
     The verilog code for AND gate using a mux where A is select line and B is the I1 input line , I0 is zero
+	
+#### Day-48 OR gate using 2:1 decoder
+    Verilog code for OR gate using decoder .
