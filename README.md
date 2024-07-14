@@ -241,3 +241,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 	
 #### Day-48 OR gate using 2:1 decoder
     Verilog code for OR gate using decoder .
+
+#### Day-49 Vedic Multiplier
+    This project demonstrates the implementation of a 2x2 Vedic Multiplier using Verilog. The Vedic Multiplier is
+	based on the "Urdhva Tiryakbhyam" (Vertically and Crosswise) sutra of Vedic mathematics, which allows for fast
+	multiplication. The testbench verifies the functionality of the Vedic Multiplier by applying various input combinations.
