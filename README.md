@@ -251,3 +251,5 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     In Booth’s multiplier works on Booth’s Algorithm that does the multiplication of 2’s complement notation of two signed
 	binary numbers.
 
+#### Day-51 FFT simulation	
+    Added code for Fast Fourier transform simulation
