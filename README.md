@@ -253,3 +253,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 
 #### Day-51 FFT simulation	
     Added code for Fast Fourier transform simulation
+
+#### Day-52 IFFT simulation 
+    Added code for Inverse Fast fourier transform simulation
