@@ -250,9 +250,15 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-50 Booth Multiplier 
     In Booth’s multiplier works on Booth’s Algorithm that does the multiplication of 2’s complement notation of two signed
 	binary numbers.
+# -------------------------------------------------------------------------------------------------------
 
 #### Day-51 FFT simulation	
     Added code for Fast Fourier transform simulation
 
 #### Day-52 IFFT simulation 
     Added code for Inverse Fast fourier transform simulation
+
+#### Day-53 Barrel shifter 8-bit
+    A combinational circuit, unlike regular shifters which are sequential ,to shift a 8 bit data, register based shifters 
+    will take 8 clock cycles whereas this barrel shifter can do it by the time of one clock cycle. It is used in ALU for 
+	performing shifting operations .
