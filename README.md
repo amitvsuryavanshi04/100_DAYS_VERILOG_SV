@@ -262,3 +262,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     A combinational circuit, unlike regular shifters which are sequential ,to shift a 8 bit data, register based shifters 
     will take 8 clock cycles whereas this barrel shifter can do it by the time of one clock cycle. It is used in ALU for 
 	performing shifting operations .
+
+# ---------------SYSTEM VERILOG PART ----------------------------------------------------
+#### Day-54 SV1 randomization 
+    Randomization allows designers to generate random input values and test their designs thoroughly which can be used in 
+    testability scenarios.. like instead of typing them manually we can generate them using rand and randc keywords.
