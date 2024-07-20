@@ -250,7 +250,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-50 Booth Multiplier 
     In Booth’s multiplier works on Booth’s Algorithm that does the multiplication of 2’s complement notation of two signed
 	binary numbers.
-# -------------------------------------------------------------------------------------------------------
+# ---------------------------------------------------------------
 
 #### Day-51 FFT simulation	
     Added code for Fast Fourier transform simulation
@@ -263,7 +263,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     will take 8 clock cycles whereas this barrel shifter can do it by the time of one clock cycle. It is used in ALU for 
 	performing shifting operations .
 
-# ---------------SYSTEM VERILOG PART ----------------------------------------------------
+# ---------------SYSTEM VERILOG PART ----------------------------
 #### Day-54 SV1 randomization 
     Randomization allows designers to generate random input values and test their designs thoroughly which can be used in 
     testability scenarios.. like instead of typing them manually we can generate them using rand and randc keywords.
