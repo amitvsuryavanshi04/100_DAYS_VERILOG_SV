@@ -267,3 +267,9 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-54 SV1 randomization 
     Randomization allows designers to generate random input values and test their designs thoroughly which can be used in 
     testability scenarios.. like instead of typing them manually we can generate them using rand and randc keywords.
+
+#### Day-55 SV2 pre randomization and post randomization 
+    the pre randmoize method can be used wher we need to declare the values of any variable and keep then it should randomize 
+    in post randomize even if the randomization occurs the values in the post randomize function keeps the value same 
+    this thing might be a simple it has use cases in various application accordingly
+
