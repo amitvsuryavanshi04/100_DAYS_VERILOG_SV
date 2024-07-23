@@ -271,5 +271,4 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-55 SV2 pre randomization and post randomization 
     the pre randmoize method can be used wher we need to declare the values of any variable and keep then it should randomize 
     in post randomize even if the randomization occurs the values in the post randomize function keeps the value same 
-    this thing might be a simple it has use cases in various application accordingly
-
+    this thing might be a simple it has use cases in various application accordingly.
