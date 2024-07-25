@@ -272,3 +272,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     the pre randmoize method can be used wher we need to declare the values of any variable and keep then it should randomize 
     in post randomize even if the randomization occurs the values in the post randomize function keeps the value same 
     this thing might be a simple it has use cases in various application accordingly.
+
+#### Day-56 SV3 inline constraints
+    In SystemVerilog, inline constraints are used to specify constraints directly within the instantiation of random variables. 
+    This allows for more concise and readable code by embedding the constraints alongside the variable declaration and assignment.
