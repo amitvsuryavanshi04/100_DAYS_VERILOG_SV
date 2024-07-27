@@ -276,3 +276,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-56 SV3 inline constraints
     In SystemVerilog, inline constraints are used to specify constraints directly within the instantiation of random variables. 
     This allows for more concise and readable code by embedding the constraints alongside the variable declaration and assignment.
+
+#### Day-57 SV4 weighted constraint in randomization 
+    In this code the word weighted refers to the occurance of values like ex., 5 how much more it occured more the weight is
+    The value which has to be repeated more is declared in the system verilog code
