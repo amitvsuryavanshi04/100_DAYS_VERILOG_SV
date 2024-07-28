@@ -280,3 +280,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-57 SV4 weighted constraint in randomization 
     In this code the word weighted refers to the occurance of values like ex., 5 how much more it occured more the weight is
     The value which has to be repeated more is declared in the system verilog code
+
+#### Day-58 SV5 Inside operator for randomization 
+    Inside keyword is used to generate values in between certain range 
+    example rand [0:3] a; class.a{[0:2]} only values bewtween  0 to 2 is printed
