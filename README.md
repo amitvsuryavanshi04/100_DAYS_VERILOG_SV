@@ -284,3 +284,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-58 SV5 Inside operator for randomization 
     Inside keyword is used to generate values in between certain range 
     example rand [0:3] a; class.a{[0:2]} only values bewtween  0 to 2 is printed
+
+#### Day-59 SV6 Solve before constraints for randomization
+    Suppose a value has an occurance less in probability we can increase it's occurance by creating constraints.
