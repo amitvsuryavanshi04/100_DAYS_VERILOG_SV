@@ -287,3 +287,14 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 
 #### Day-59 SV6 Solve before constraints for randomization
     Suppose a value has an occurance less in probability we can increase it's occurance by creating constraints.
+
+#### Day-60 SV7 concept of inheritence 
+    three pillars of OOP 
+    a.inheritence 
+    b.encapsulation 
+    c.polymorphism
+
+    in inheritence we have flexibility to inherit the parent class or higher class with it's 
+    properties in another class using the keyword super in system verilog 
+    example calling the parent class in the child class with the same parameters to print the function values 
+  
