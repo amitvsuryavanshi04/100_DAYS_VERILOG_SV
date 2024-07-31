@@ -296,5 +296,10 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 
     in inheritence we have flexibility to inherit the parent class or higher class with it's 
     properties in another class using the keyword super in system verilog 
-    example calling the parent class in the child class with the same parameters to print the function values 
-  
+    example calling the parent class in the child class with the same parameters to print the function values.
+
+#### Day-61 SV8 Concept of Encapsulation
+    Encapsulation in programming is the practice of bundling data (variables) and methods (functions) that 
+    operate on the data into a single unit or class, restricting access to some components to protect the integrity of the data.
+    In the provided SystemVerilog example, the parent class encapsulates variables a and b and a method print, while the child 
+    class extends parent, adding the method add to manipulate these variables.
