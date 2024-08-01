@@ -303,3 +303,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     operate on the data into a single unit or class, restricting access to some components to protect the integrity of the data.
     In the provided SystemVerilog example, the parent class encapsulates variables a and b and a method print, while the child 
     class extends parent, adding the method add to manipulate these variables.
+
+#### Day-62 SV9 concept of basic polymorphism 
+    This SystemVerilog code demonstrates polymorphism by defining a `parent` class with a `print` method and a `child` class that
+    overrides the `print` method. In the `top` module, an instance of `parent` is assigned to an instance of `child`, showcasing
+    the ability of the `parent` reference to call the overridden `print` method in the `child` class.
