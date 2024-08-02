@@ -308,3 +308,9 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     This SystemVerilog code demonstrates polymorphism by defining a `parent` class with a `print` method and a `child` class that
     overrides the `print` method. In the `top` module, an instance of `parent` is assigned to an instance of `child`, showcasing
     the ability of the `parent` reference to call the overridden `print` method in the `child` class.
+
+#### Day-63 SV10 concept of Mailbox in system verilog
+    This SystemVerilog testbench module demonstrates inter-process communication using a mailbox. In the first initial block, 
+    random 4-bit values are generated and sent to the mailbox `abc` using the `put` method, while displaying each sent value. 
+    In the second initial block, a forever loop continuously retrieves values from the mailbox using the `get` method and displays 
+    each received value, illustrating how mailboxes facilitate communication between concurrent processes.
