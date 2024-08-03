@@ -314,3 +314,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     random 4-bit values are generated and sent to the mailbox `abc` using the `put` method, while displaying each sent value. 
     In the second initial block, a forever loop continuously retrieves values from the mailbox using the `get` method and displays 
     each received value, illustrating how mailboxes facilitate communication between concurrent processes.
+
+#### Day-64 SV11 conept of fixed array
+    Added the simple of creating a 1-D and 2-D array in system verilog .. can be used to store the input elements.
+    
+
