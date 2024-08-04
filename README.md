@@ -317,5 +317,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 
 #### Day-64 SV11 conept of fixed array
     Added the simple of creating a 1-D and 2-D array in system verilog .. can be used to store the input elements.
-    
-
+    This SystemVerilog code demonstrates dynamic array operations including creation, resizing, initialization, and deletion. 
+    It shows how to display the size and elements of the dynamic array at various stages, highlighting the flexibility and usage 
+    of dynamic arrays in hardware description languages.
