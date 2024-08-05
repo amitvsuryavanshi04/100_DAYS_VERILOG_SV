@@ -324,3 +324,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-65 SV12 Concept of Dynamic array
     The code is similar to fixed array instead just declare the syntax according to dynamic array and the system verilog code I used
     shows the usage of simple functions in dynamic array.
+
+#### Day-66 SV13 Concept of Enumeration 
+    the use of enumerations, including methods to access the first, last, next, and previous elements, as well as displaying their 
+    names and values. It showcases the enumeration's utility for handling a sequence of states in a packet processing context.
