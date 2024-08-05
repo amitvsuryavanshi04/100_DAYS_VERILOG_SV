@@ -320,3 +320,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     This SystemVerilog code demonstrates dynamic array operations including creation, resizing, initialization, and deletion. 
     It shows how to display the size and elements of the dynamic array at various stages, highlighting the flexibility and usage 
     of dynamic arrays in hardware description languages.
+
+#### Day-65 SV12 Concept of Dynamic array
+    The code is similar to fixed array instead just declare the syntax according to dynamic array and the system verilog code I used
+    shows the usage of simple functions in dynamic array.
