@@ -328,3 +328,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-66 SV13 Concept of Enumeration 
     the use of enumerations, including methods to access the first, last, next, and previous elements, as well as displaying their 
     names and values. It showcases the enumeration's utility for handling a sequence of states in a packet processing context.
+
+#### Day-67 SV14 concept of Associative arrays
+    Associative arrays are useful when the index values are not consecutive or when the array size is not known in advance. They are
+    essentially hash tables and provide a mapping from an arbitrary key type to a value type.
