@@ -332,3 +332,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-67 SV14 concept of Associative arrays
     Associative arrays are useful when the index values are not consecutive or when the array size is not known in advance. They are
     essentially hash tables and provide a mapping from an arbitrary key type to a value type.
+
+#### Day-68 SV15 Concept of Queue
+    This example showcases the dynamic and flexible nature of queues in SystemVerilog, making them useful for various applications,
+    including testbenches and data processing.
