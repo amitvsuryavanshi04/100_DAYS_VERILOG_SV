@@ -336,3 +336,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-68 SV15 Concept of Queue
     This example showcases the dynamic and flexible nature of queues in SystemVerilog, making them useful for various applications,
     including testbenches and data processing.
+	
+#### Day-69 SV16 concpet of linked lists.
+    This example demonstrates the implementation of a simple singly linked list in SystemVerilog, showcasing basic operations like 
+    adding nodes and traversing the list. The code utilizes a struct-based node representation and an array to simulate dynamic 
+    memory allocation.
