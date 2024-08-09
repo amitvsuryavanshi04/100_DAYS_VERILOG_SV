@@ -346,3 +346,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     The code says about the usage of packages in the system verilog to encapsulate reusable funcitons . The package 'pkg' contains 
     an 'add' function to sum two integers and a 'part' function to display the result. By importing the package into the module 'top'
     these functions can be easily reused, showcasing the modularity and reusability of system verilog code.
+
+#### Day-71 SV18 Concept of interfaces.
+    This code introduces the concept of interfaces in SystemVerilog. Interfaces allow you to bundle related signals and functions, 
+    simplifying connections between modules. The provided example demonstrates how to use an interface to manage signals and 
+    perform operations on them.
