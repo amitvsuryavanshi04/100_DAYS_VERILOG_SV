@@ -341,3 +341,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     This example demonstrates the implementation of a simple singly linked list in SystemVerilog, showcasing basic operations like 
     adding nodes and traversing the list. The code utilizes a struct-based node representation and an array to simulate dynamic 
     memory allocation.
+
+#### Day-70 SV17 Concept of package.
+    The code says about the usage of packages in the system verilog to encapsulate reusable funcitons . The package 'pkg' contains 
+    an 'add' function to sum two integers and a 'part' function to display the result. By importing the package into the module 'top'
+    these functions can be easily reused, showcasing the modularity and reusability of system verilog code.
