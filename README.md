@@ -271,6 +271,11 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 	performing shifting operations .
 
 # ---------------SYSTEM VERILOG PART ----------------------------
+### Learning System Verilog
+    The Concept was very much important because I had zero knowledge about system verilog so learning was important
+    I took most of the system verilog code from a youtube cannel called "*VLSICHAPS*" thanks to this channel and the 
+    explaination of code given is much simpler and upto the point required that too in short duration of time..
+    Link to the youtube Channel:- https://www.youtube.com/@vlsichaps
 #### Day-54 SV1 randomization 
     Randomization allows designers to generate random input values and test their designs thoroughly which can be used in 
     testability scenarios.. like instead of typing them manually we can generate them using rand and randc keywords.
@@ -363,4 +368,16 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     resource is very limited process trying to access the same resource at the same time memory process --write and read occures at same
     time the conflict occurs and to avoid this we use semaphore... 
     by making use of a key and then make use of resource and return back the key to the process and repeat the process..
+
+# ---------------------------------------------------------------
+### Verification generally goes like this 
+    The flow of verification goes like this :- 
+    We need to create a top module---> a test file ---> send to environment ---> generator --->mailbox--->driver---> driving the DUT .
+ 
+
+#### Day-73 SV20 Full adder verification.
+    The flow of system verilog has been shown in the form of picutre in the Day-73 directory where I have explained
+    How the verification is done , as an example I have taken full adder yet one of the simpler but important digital
+    Circuit used in almost most of the bigger circuits to add digital values. 
+
 
