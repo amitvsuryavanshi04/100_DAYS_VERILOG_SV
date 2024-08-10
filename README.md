@@ -358,3 +358,9 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     This code introduces the concept of interfaces in SystemVerilog. Interfaces allow you to bundle related signals and functions, 
     simplifying connections between modules. The provided example demonstrates how to use an interface to manage signals and 
     perform operations on them.
+
+#### Day-72 SV19 Concept of Semaphore.
+    resource is very limited process trying to access the same resource at the same time memory process --write and read occures at same
+    time the conflict occurs and to avoid this we use semaphore... 
+    by making use of a key and then make use of resource and return back the key to the process and repeat the process..
+
