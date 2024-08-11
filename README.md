@@ -379,8 +379,11 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     The flow of system verilog has been shown in the form of picutre in the Day-73 directory where I have explained
     How the verification is done , as an example I have taken full adder yet one of the simpler but important digital
     Circuit used in almost most of the bigger circuits to add digital values. 
+    You can access the EDA Playground project [here](https://www.edaplayground.com/x/iVRN).
 
 #### Day-74 SV21 Concept of Functional Coverage implicit bins
     This SystemVerilog code demonstrates randomization and coverage collection using a class `pkt` with `addr` and `data` fields, 
     and a covergroup `cg` to monitor these fields during simulation. The code runs 20 random tests and samples the coverage of 
-    `addr` and `data` values in XSIM.
+    `addr` and `data` values in XSIM. 
+    You can access the EDA Playground project [here](https://www.edaplayground.com/x/B2LD).
+
