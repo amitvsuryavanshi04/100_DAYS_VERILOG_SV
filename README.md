@@ -391,3 +391,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     This SystemVerilog code demonstrates the use of callbacks and polymorphism, where a base class defines a virtual notification 
     function that can be overridden by a derived class. The example showcases how to invoke the appropriate method based on the 
     object type, illustrating dynamic behavior and flexibility in object-oriented programming.
+
+#### Day-76 SV23 Assertions in System Verilog.
+    Used to validate and verify the digital circuits designs to ensure that signals and responses behave 
+    expected and according to the logic. A simple application in full adder circuit to check sum and carry
+    values are correct or not.
