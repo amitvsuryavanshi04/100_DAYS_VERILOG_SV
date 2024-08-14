@@ -401,3 +401,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     This code demonstrates the concept of random stability in SystemVerilog, ensuring consistent random value generation across 
     multiple simulation runs using the same seed. It highlights how to control and reproduce random sequences for effective 
     debugging and verification.
+
+#### Day-78 SV25 Concpet of Cross Coverage
+    Cross Coverage is a specialized form of functional coverage that deals with combinations of values between different coverage 
+    points.
