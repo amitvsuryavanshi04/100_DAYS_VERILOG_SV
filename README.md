@@ -406,3 +406,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     Cross Coverage is a specialized form of functional coverage that deals with combinations of values between different coverage 
     points.
 
+#### Day-79 SV26 Associative arrays [extension]
+    Associative arrays in SystemVerilog, demonstrating operations like element insertion, existence checking, and index 
+    navigation methods (first, last, prev, next) while also covering array deletion.
