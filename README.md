@@ -409,3 +409,10 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-79 SV26 Associative arrays [extension]
     Associative arrays in SystemVerilog, demonstrating operations like element insertion, existence checking, and index 
     navigation methods (first, last, prev, next) while also covering array deletion.
+
+#### Day-80 SV27 Clock Generation 
+    This example demonstrates clock generation and the significance of clock signals in controlling sequential logic.
+
+#### Day-81 SV28 Parameterized Modules 
+    This code demonstrates the use of parameterized modules, where the "WIDTH" parameter allows the same adder module 
+    to handle both 8-bit and 16-bit additions. This flexibility helps in designing scalable and reusable components.
