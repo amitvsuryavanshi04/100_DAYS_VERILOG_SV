@@ -415,4 +415,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 
 #### Day-81 SV28 Parameterized Modules 
     This code demonstrates the use of parameterized modules, where the "WIDTH" parameter allows the same adder module 
-    to handle both 8-bit and 16-bit additions. This flexibility helps in designing scalable and reusable components.
+    to handle both 8-bit and 16-bit additions. This flexibility helps in designing scalable and reusable components
+
+#### Day-82 SV29 Clock Divider code 
+    This code implements a Clock Divider, which reduces the frequency of an input clock signal by toggling the output
+    clock at a slower rate. It is useful for scenarios where different modules require clocks at varying frequencies
