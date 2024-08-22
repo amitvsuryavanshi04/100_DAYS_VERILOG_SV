@@ -423,4 +423,9 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 
 #### Day-83 SV30 Functions in System Verilog.
     This testbench demonstrates different function types in SystemVerilog, including argument passing by value, reference, 
-	name, and the use of default arguments. These functions provide various ways to manipulate and process data in a modular and reusable manner.
+    name, and the use of default arguments. These functions provide various ways to manipulate and process data in a modular 
+    and reusable manner.
+
+#### Day-84 SV31 Tasks in System Verilog.
+    how to use tasks in SystemVerilog with pass by value, pass by reference, and static tasks. Tasks provide flexibility
+    for complex operations, allowing both argument manipulation and interactions with global variables.
