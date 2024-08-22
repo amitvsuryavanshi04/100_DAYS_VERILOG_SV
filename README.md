@@ -419,4 +419,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 
 #### Day-82 SV29 Clock Divider code 
     This code implements a Clock Divider, which reduces the frequency of an input clock signal by toggling the output
-    clock at a slower rate. It is useful for scenarios where different modules require clocks at varying frequencies
+    clock at a slower rate. It is useful for scenarios where different modules require clocks at varying frequencies.
+
+#### Day-83 SV30 Functions in System Verilog.
+    This testbench demonstrates different function types in SystemVerilog, including argument passing by value, reference, 
+	name, and the use of default arguments. These functions provide various ways to manipulate and process data in a modular and reusable manner.
