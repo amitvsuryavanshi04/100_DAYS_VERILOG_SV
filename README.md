@@ -429,3 +429,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-84 SV31 Tasks in System Verilog.
     how to use tasks in SystemVerilog with pass by value, pass by reference, and static tasks. Tasks provide flexibility
     for complex operations, allowing both argument manipulation and interactions with global variables.
+
+#### Day-85 SV32 Static Cast.
+    In SystemVerilog, static casting is used to convert one data type to another explicitly at compile time.
