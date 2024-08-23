@@ -432,3 +432,6 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 
 #### Day-85 SV32 Static Cast.
     In SystemVerilog, static casting is used to convert one data type to another explicitly at compile time.
+
+#### Day-86 SV33 Dynamic Cast.
+     Dynamic casting checks the compatibility of the object at runtime and safely converts it if possible.
