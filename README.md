@@ -434,4 +434,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     In SystemVerilog, static casting is used to convert one data type to another explicitly at compile time.
 
 #### Day-86 SV33 Dynamic Cast.
-     Dynamic casting checks the compatibility of the object at runtime and safely converts it if possible.
+    Dynamic casting checks the compatibility of the object at runtime and safely converts it if possible.
+ 
+#### Day-87 SV34 Packaing data with streaming operator.
+    In SystemVerilog, streaming operators ("<<", ">>") are used for efficiently packing and unpacking data 
+    into a bit stream, making array conversions more readable and compact.
