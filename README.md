@@ -439,3 +439,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-87 SV34 Packaing data with streaming operator.
     In SystemVerilog, streaming operators ("<<", ">>") are used for efficiently packing and unpacking data 
     into a bit stream, making array conversions more readable and compact.
+
+#### Day-88 SV35 unpacking data with streaming operator.
+	Unpacking: When used on the left side of an assignment, streaming operators unpack a stream of bits
+    into the target array or structure, automatically allocating elements as needed.
