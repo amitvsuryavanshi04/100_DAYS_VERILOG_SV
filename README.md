@@ -443,3 +443,7 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-88 SV35 unpacking data with streaming operator.
 	Unpacking: When used on the left side of an assignment, streaming operators unpack a stream of bits
     into the target array or structure, automatically allocating elements as needed.
+
+#### Day-89 SV36 Converting between queues with streaming operator.
+    This SystemVerilog example demonstrates the use of streaming operators to convert data between queues
+    of different bit-widths. It shows how to pack and unpack a queue of 16-bit words into a queue of 8-bit bytes, and vice versa.
