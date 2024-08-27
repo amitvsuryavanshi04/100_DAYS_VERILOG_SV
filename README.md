@@ -447,3 +447,8 @@ If anyone finds this useful and likes my consistency please consider me for oppo
 #### Day-89 SV36 Converting between queues with streaming operator.
     This SystemVerilog example demonstrates the use of streaming operators to convert data between queues
     of different bit-widths. It shows how to pack and unpack a queue of 16-bit words into a queue of 8-bit bytes, and vice versa.
+
+#### Day-90 SV37 Converting between structure and an array.
+    This SystemVerilog example illustrates converting between a structure and a byte array using streaming operators.
+    The code demonstrates how to flatten a multi-field structure into a byte array and reconstruct it back, providing a practical 
+    way to handle complex data types in hardware design.
