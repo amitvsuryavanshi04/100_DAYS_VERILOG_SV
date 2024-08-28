@@ -452,3 +452,9 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     This SystemVerilog example illustrates converting between a structure and a byte array using streaming operators.
     The code demonstrates how to flatten a multi-field structure into a byte array and reconstruct it back, providing a practical 
     way to handle complex data types in hardware design.
+
+# ---------------------------------------------------------------
+## Verilog Project Day-91 to Day-100[Estimating to complete on 100th DAY]
+#### Day-91 Adding Implementation Plan and code for alu
+    Taking the concept from day 07 4-bit ALU tried to write a code 8 bit ALU which performs arithemetic and logical operations
+    using 'mode' as control signals, 'CFlags' for status flags and 'Out' for storing the output.
