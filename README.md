@@ -459,3 +459,4 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     Taking the concept from day 07 4-bit ALU tried to write a code 8 bit ALU which performs arithemetic and logical operations
     using 'mode' as control signals, 'CFlags' for status flags and 'Out' for storing the output.
 #### Day-92 Added Data memory code
+#### Day-93 Added Adder and mux code
