@@ -454,9 +454,14 @@ If anyone finds this useful and likes my consistency please consider me for oppo
     way to handle complex data types in hardware design.
 
 # ---------------------------------------------------------------
-## Verilog Project Day-91 to Day-100[Estimating to complete on 100th DAY]
+## Verilog Project Day-91 to Day-100
 #### Day-91 Adding Implementation Plan and code for alu
     Taking the concept from day 07 4-bit ALU tried to write a code 8 bit ALU which performs arithemetic and logical operations
     using 'mode' as control signals, 'CFlags' for status flags and 'Out' for storing the output.
 #### Day-92 Added Data memory code
 #### Day-93 Added Adder and mux code
+#### Day-94 Added Program memory code
+#### Day-95 Added Control Unit Code
+#### Day-96 Added Microcontroller top module Code
+#### Day-97 & Day-98 Added Testbench code.
+#### Day-99 & Day-100 Added a short report for the work.

@@ -4,7 +4,7 @@
 // Engineer: 
 // 
 // Create Date: 28.08.2024 23:04:48
-// Design Name: 
+// Design Name: Microcontroller simulation
 // Module Name: alu_code
 // Project Name: 
 // Target Devices: 
