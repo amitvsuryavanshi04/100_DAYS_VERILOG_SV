@@ -28,7 +28,7 @@ module DMem( input clk,
      output [7:0] DO // Data output port
     );
 reg [7:0] data_mem [255:0];
-// fpga4student.com: FPGA project, Verilog project, VHDL project
+
 always @(posedge clk) 
 begin
  if(E==1 && WE ==1) 

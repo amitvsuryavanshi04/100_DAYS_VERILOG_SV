@@ -30,7 +30,7 @@ module PMem( input clk,
   input [11:0] LI//Load instruction port
    );
  reg [11:0] Prog_Mem[255:0] ;
-// fpga4student.com: FPGA project, Verilog project, VHDL project 
+ 
 always @(posedge clk)
  begin
  if(LE == 1) begin

@@ -81,7 +81,7 @@ module MicroController(input clk,rst
  adder PC_Adder_unit( .In(PC),
    .Out(Adder_Out)
     );
-// fpga4student.com: FPGA project, Verilog project, VHDL project 
+
 // MUX1
  MUX1 MUX1_unit( .In2(IR[7:0]),.In1(Adder_Out),
   .Sel(MUX1_Sel),
@@ -105,7 +105,7 @@ module MicroController(input clk,rst
   .PMem_LE(PMem_LE),
   .ALU_Mode(ALU_Mode)
     );
-// fpga4student.com: FPGA project, Verilog project, VHDL project
+
  // LOAD
  always @(posedge clk)
  begin
@@ -127,7 +127,7 @@ module MicroController(input clk,rst
  end
  end 
  end
-// fpga4student.com: FPGA project, Verilog project, VHDL project
+
  assign load_instr = program_mem[load_addr];
  // next state
  always @(posedge clk)
@@ -168,7 +168,7 @@ module MicroController(input clk,rst
  end 
  endcase
  end
-// fpga4student.com: FPGA project, Verilog project, VHDL project
+
  // 3 programmer visible register
  always @(posedge clk)
  begin
@@ -194,7 +194,7 @@ module MicroController(input clk,rst
  SR <= 4'd0; 
  end
  end
-// fpga4student.com: FPGA project, Verilog project, VHDL project
+
  // 2 programmer invisible register
  always @(posedge clk)
  begin
